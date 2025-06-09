@@ -3,7 +3,7 @@
 
 
 """
-oig_screen.py
+oig_screener.py
 
 Monthly OIG Exclusion Screening:
 1. Downloads the latest OIG Exclusions CSV.
